@@ -1,0 +1,28 @@
+{
+  "name": "@xeserv/nixexpr",
+  "version": "0.1.0",
+  "description": "A tagged template for evaluating Nix code",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xe/nixexpr.git"
+  },
+  "keywords": [
+    "nix"
+  ],
+  "author": "Xe Iaso <me@xeiaso.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Xe/nixexpr/issues"
+  },
+  "homepage": "https://github.com/Xe/nixexpr#readme",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  },
+  "dependencies": {
+    "shescape": "^1.7.3"
+  }
+}
