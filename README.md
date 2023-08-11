@@ -1,5 +1,10 @@
 # nixexpr
 
+![enbyware](https://pride-badges.pony.workers.dev/static/v1?label=enbyware&labelColor=%23555&stripeWidth=8&stripeColors=FCF434%2CFFFFFF%2C9C59D1%2C2C2C2C)
+![license](https://img.shields.io/github/license/Xe/nixexpr)
+![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/Xe/nixexpr)
+[![Node.js CI](https://github.com/Xe/nixexpr/actions/workflows/node.js.yml/badge.svg)](https://github.com/Xe/nixexpr/actions/workflows/node.js.yml)
+
 JavaScript is great as a programming language, but sometimes it can be
 really inconvenient when you are using it as a way to write
 configuration data. nixexpr allows you to use [Nix](https://nixos.org)
