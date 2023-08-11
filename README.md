@@ -14,13 +14,13 @@ npm install --save @xeserv/nixexpr
 
 And then import it from your code:
 
-```
+```js
 import { nix } from "@xeserv/nixexpr";
 ```
 
 Then use it like you would any other tagged template:
 
-```
+```js
 const highlight = nix`{
   pre_tags = [ "em" ];
   post_tags = [ "</em>" ];
